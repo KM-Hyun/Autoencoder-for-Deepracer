@@ -1,5 +1,5 @@
 # Autoencoder-for-Deepracer
-## ADC-SeongDongHyun
+## A.D.C-TeamLeader-SeongDongHyun
 In a capstone course at Kookmin University, a project was conducted to investigate the domain differences between images. 
 The code for this project was written based on PyTorch Lightning.
 ---
